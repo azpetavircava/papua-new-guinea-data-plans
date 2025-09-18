@@ -59,3 +59,10 @@ layout: default
 
 *   **什么是APN？** 接入点名称，手机连接运营商网络的“钥匙”。设置不对，卡有信号也上不了网。
 *   **如何设置？
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Papua New Guinea SIM 卡购买与激活指南](https://faciylike.github.io/papua-new-guinea-sim-guides)
